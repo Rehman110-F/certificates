@@ -1,6 +1,6 @@
 ## Certificates
 
 ### AWS Certified Cloud Practitioner
-![AWS Certificate](certificates/AwsCloud_certificate.pdf)
+![AWS Certificate](AwsCloud_certificate.pdf)
 
 
